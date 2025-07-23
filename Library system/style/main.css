@@ -334,3 +334,12 @@ span2 {
     border: none;
 
 }
+.card4{
+    max-width: 100%;
+    background-color: lightgray;
+    height: 50px;
+    /* justify-content: center; */
+    /* align-items: center; */
+    text-align: center;
+    padding-top: 30px;
+}
